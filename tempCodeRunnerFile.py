@@ -1,0 +1,1 @@
+ my_prediction = int(regressor.predict(data)[0])
