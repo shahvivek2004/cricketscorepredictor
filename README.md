@@ -25,5 +25,5 @@ To run the application, follow these steps:
 - Navigate to the project directory in the command prompt.
 - Run the following command to start the Flask server:python app.py
 
-Open a web browser and go to https://github.com/shahvivek2004/cricketscorepredictor to access the web application.
+Open a web browser and go to access the web application.
 Note: Make sure that you have installed all the required packages before running the application.
